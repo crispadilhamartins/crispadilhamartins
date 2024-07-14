@@ -1,4 +1,4 @@
-##<h3>👋 Olá! Sou um estudante apaixonado por programação e estou em busca de oportunidades para iniciar minha carreira na área. Atualmente, estou aprendendo linguagens como <strong>Python<strong>, <strong>Django<strong>, além de me aprofundar em <strong>lógica de programação<strong> e <bold>resolução de problemas<bold>. Nos meus repositórios, você encontrará alguns dos meus projetos. Estou animado para colaborar em projetos, aprender com outros desenvolvedores e contribuir para soluções criativas. Vamos construir algo incrível juntos! 💻🚀 <h3>
+##<h3>👋 Olá! Sou um estudante apaixonado por programação e estou em busca de oportunidades para iniciar minha carreira na área. Atualmente, estou aprendendo linguagens como <strong>Python</strong>, <strong>Django</strong>, além de me aprofundar em <strong>lógica de programação</strong> e <bold>resolução de problemas<bold>. Nos meus repositórios, você encontrará alguns dos meus projetos. Estou animado para colaborar em projetos, aprender com outros desenvolvedores e contribuir para soluções criativas. Vamos construir algo incrível juntos! 💻🚀 <h3>
 <br>
 <br>
 
